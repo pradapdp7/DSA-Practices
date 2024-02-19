@@ -10,7 +10,6 @@ public class leftrotation {
         for(int c=0;c<a;c++){
             arr[c]=ip.nextInt();
         }
-
         for(int i = 0; i < b; i++){
             int j, first;
             first = arr[0];
